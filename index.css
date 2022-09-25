@@ -45,13 +45,16 @@ img{
     width: 100%;
 }
 img.www{
-    width: 30%;
+    width: 100%;
 }
 div{
     background-color: #333333;
     border-radius: 1%;
     border: solid;
     border-color: #cf0025;
+}
+div.wwwimg{
+    width: 60%;
 }
 p.borderp{
     border: solid 3px #4e41ae;
